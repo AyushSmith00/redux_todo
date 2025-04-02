@@ -9,7 +9,7 @@ function App() {
 
   return (
     <>
-      <h1>bin chilling</h1>
+
       <AddTodo/>
       <Todos/>
     </>
