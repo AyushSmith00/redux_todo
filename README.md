@@ -1,12 +1,18 @@
-# React + Vite
+Todo List Application (React-Redux)
+A simple and intuitive Todo List web application built with React and Redux. This app allows users to add and remove tasks, providing a clean and interactive way to manage daily to-dos.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Features
+Add Todos: Users can easily add tasks to their todo list.
 
-Currently, two official plugins are available:
+Remove Todos: Tasks can be removed from the list once completed.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+State Management: Uses Redux for managing the state of todos.
 
-## Expanding the ESLint configuration
+Responsive Design: Works well on various screen sizes.
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Technologies Used
+React: JavaScript library for building user interfaces.
+
+Redux: State management tool to handle application state.
+
+React-Redux: Binding library that allows React components to interact with the Redux store.
